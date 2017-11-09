@@ -1,2 +1,2 @@
 # test
-# testing howw to pull
+# testing how to pull
